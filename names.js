@@ -1,5 +1,5 @@
 const names = [
-  "Nyra of the Shattered Flame",  
+"Nyra of the Shattered Flame",  
 "Vornak the Pale Root",  
 "Eshuun the Bone Herald",  
 "Khalis of the Ink Wake",  
@@ -802,5 +802,4 @@ const names = [
 "Wesrynraenilraen of the Mourning Spinner",  
 "Xanethraenilraen of the Quiet Choir",  
 "Yrenethraenilraen of the Bone Loom",  
-"Zyraenilraen of the Ashen Flame"
-];
+"Zyraenilraen of the Ashen Flame"];
