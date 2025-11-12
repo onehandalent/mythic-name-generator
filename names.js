@@ -1,11 +1,4 @@
-const names = [
-      "Aelion the Flamebound",
-      "Nyra of the Rift",
-      "Threx the Soulforged",
-      "Voryn the Hollow",
-      "Zareth the Boundless",
-      "Zar’Keth the Hollow",  
-"Nyra of the Shattered Flame",  
+const names = ["Nyra of the Shattered Flame",  
 "Vornak the Pale Root",  
 "Eshuun the Bone Herald",  
 "Khalis of the Ink Wake",  
