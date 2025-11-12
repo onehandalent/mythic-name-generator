@@ -1,4 +1,5 @@
-const names = ["Nyra of the Shattered Flame",  
+const names = [
+  "Nyra of the Shattered Flame",  
 "Vornak the Pale Root",  
 "Eshuun the Bone Herald",  
 "Khalis of the Ink Wake",  
